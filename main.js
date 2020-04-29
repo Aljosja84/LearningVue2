@@ -10,6 +10,10 @@ Vue.component('task-list', {
                 { task: 'Go to the work', completed: false },
             ]
         };
+    },
+
+    methods: {
+
     }
 });
 
