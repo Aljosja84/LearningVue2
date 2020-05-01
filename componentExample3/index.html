@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html xmlns:v-on="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.8.2/css/bulma.min.css">
+    <style type="text/css">body { padding-top: 40px; }</style>
+</head>
+<body>
+<div id="root" class="container">
+    <tabs>
+        <tab name="About us" :selected="true">
+            <h1>Here is the content for the about us tab</h1>
+        </tab>
+
+        <tab name="Contact">
+            <h1>Here is the content for the contact tab</h1>
+        </tab>
+
+        <tab name="Your active bets">
+            <h1>You have <b>3</b> ongoing bets</h1>
+        </tab>
+    </tabs>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<script src="main.js"></script>
+
+</body>
+</html>
