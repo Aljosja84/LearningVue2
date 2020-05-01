@@ -9,7 +9,7 @@ Vue.component('tabs', {
           </ul>
         </div>
         
-       <div class="tab-details">
+       <div class="tab-content">
             <slot></slot>
        </div>
     </div>
