@@ -36,7 +36,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/componentCommunication2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/namedSlots" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -45,15 +45,15 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\learn-vue\componentExample1" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\learn-vue\namedSlots" />
       <recent name="C:\xampp\htdocs\learn-vue\componentCommunication2" />
       <recent name="C:\xampp\htdocs\learn-vue\componentCommunication1" />
       <recent name="C:\xampp\htdocs\learn-vue\componentExample4" />
       <recent name="C:\xampp\htdocs\learn-vue\componentExample3" />
-      <recent name="C:\xampp\htdocs\learn-vue\componentExample2" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\learn-vue\componentExample1" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -72,7 +72,8 @@
       <workItem from="1588085606533" duration="1558000" />
       <workItem from="1588173234635" duration="3827000" />
       <workItem from="1588327354934" duration="11847000" />
-      <workItem from="1588349684665" duration="1522000" />
+      <workItem from="1588349684665" duration="2200000" />
+      <workItem from="1588423312632" duration="2282000" />
     </task>
     <servers />
   </component>
@@ -80,9 +81,9 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2748" y="375" width="672" height="678" key="search.everywhere.popup" timestamp="1587587883320">
+    <state x="2748" y="375" width="672" height="678" key="search.everywhere.popup" timestamp="1588427811540">
       <screen x="2560" y="0" width="1050" height="1640" />
     </state>
-    <state x="2748" y="375" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400/2560.0.1050.1640@2560.0.1050.1640" timestamp="1587587883320" />
+    <state x="2748" y="375" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400/2560.0.1050.1640@2560.0.1050.1640" timestamp="1588427811540" />
   </component>
 </project>
