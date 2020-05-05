@@ -18,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
       </list>
     </option>
   </component>
@@ -36,13 +37,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/namedSlots" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lesson" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -74,6 +76,9 @@
       <workItem from="1588327354934" duration="11847000" />
       <workItem from="1588349684665" duration="2200000" />
       <workItem from="1588423312632" duration="5113000" />
+      <workItem from="1588451417162" duration="807000" />
+      <workItem from="1588519787758" duration="28000" />
+      <workItem from="1588686259734" duration="3174000" />
     </task>
     <servers />
   </component>
@@ -81,6 +86,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2865" y="574" key="FileChooserDialogImpl" timestamp="1588689466115">
+      <screen x="2560" y="0" width="1050" height="1640" />
+    </state>
+    <state x="2865" y="574" key="FileChooserDialogImpl/0.0.2560.1400/2560.0.1050.1640@2560.0.1050.1640" timestamp="1588689466115" />
+    <state width="1051" height="503" key="GridCell.Tab.0.bottom" timestamp="1588689468051">
+      <screen x="2560" y="0" width="1050" height="1640" />
+    </state>
+    <state width="1051" height="503" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.0.1050.1640@2560.0.1050.1640" timestamp="1588689468051" />
+    <state width="1051" height="503" key="GridCell.Tab.0.center" timestamp="1588689468051">
+      <screen x="2560" y="0" width="1050" height="1640" />
+    </state>
+    <state width="1051" height="503" key="GridCell.Tab.0.center/0.0.2560.1400/2560.0.1050.1640@2560.0.1050.1640" timestamp="1588689468051" />
+    <state width="1051" height="503" key="GridCell.Tab.0.left" timestamp="1588689468051">
+      <screen x="2560" y="0" width="1050" height="1640" />
+    </state>
+    <state width="1051" height="503" key="GridCell.Tab.0.left/0.0.2560.1400/2560.0.1050.1640@2560.0.1050.1640" timestamp="1588689468051" />
+    <state width="1051" height="503" key="GridCell.Tab.0.right" timestamp="1588689468051">
+      <screen x="2560" y="0" width="1050" height="1640" />
+    </state>
+    <state width="1051" height="503" key="GridCell.Tab.0.right/0.0.2560.1400/2560.0.1050.1640@2560.0.1050.1640" timestamp="1588689468051" />
     <state x="2748" y="375" width="672" height="678" key="search.everywhere.popup" timestamp="1588427811540">
       <screen x="2560" y="0" width="1050" height="1640" />
     </state>
