@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html xmlns:v-on="http://www.w3.org/1999/xhtml">
+<head>
+    <style type="text/css">body { padding-top: 40px; }</style>
+</head>
+<body>
+<div id="root" class="container">
+<menu-list :items="['one', 'two', 'three']">
+    <template scope="props">
+        <h2>{{ props.item }}</h2>
+    </template>
+</menu-list>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<script src="main.js"></script>
+
+</body>
+</html>

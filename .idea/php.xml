@@ -1,33 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ChangeListManager">
-    <list default="true" id="e44eaa36-089d-4696-822f-b51384fbbd0c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/learn-vue.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/learn-vue.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
-    <option name="SHOW_DIALOG" value="false" />
-    <option name="HIGHLIGHT_CONFLICTS" value="true" />
-    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
-    <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
-    <pharConfigPath>$PROJECT_DIR$/vue-app/composer.json</pharConfigPath>
-    <execution>
-      <executable />
-    </execution>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="JavaScript File" />
-        <option value="Vue Single File Component" />
-      </list>
-    </option>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="PhpWorkspaceProjectConfiguration">
+  <component name="PhpIncludePathManager">
     <include_path>
       <path value="$PROJECT_DIR$/vue-app/vendor/symfony/event-dispatcher-contracts" />
       <path value="$PROJECT_DIR$/vue-app/vendor/symfony/polyfill-intl-idn" />
@@ -124,91 +97,10 @@
       <path value="$PROJECT_DIR$/vue-app/vendor/guzzlehttp/promises" />
     </include_path>
   </component>
-  <component name="ProjectId" id="1aUIhx1MUWIlBMDQTluJxN1OSuy" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="1" id="Add" />
-  </component>
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/scopedSlots" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_package_manager_path" value="npm" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\learn-vue\scopedSlots" />
-      <recent name="C:\xampp\htdocs\learn-vue\namedSlots" />
-      <recent name="C:\xampp\htdocs\learn-vue\componentCommunication2" />
-      <recent name="C:\xampp\htdocs\learn-vue\componentCommunication1" />
-      <recent name="C:\xampp\htdocs\learn-vue\componentExample4" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\learn-vue\componentExample1" />
-    </key>
-  </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
-  <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="e44eaa36-089d-4696-822f-b51384fbbd0c" name="Default Changelist" comment="" />
-      <created>1586783868417</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1586783868417</updated>
-      <workItem from="1586783869867" duration="4364000" />
-      <workItem from="1587386129650" duration="11269000" />
-      <workItem from="1587564006363" duration="1976000" />
-      <workItem from="1588085606533" duration="1558000" />
-      <workItem from="1588173234635" duration="3827000" />
-      <workItem from="1588327354934" duration="11847000" />
-      <workItem from="1588349684665" duration="2200000" />
-      <workItem from="1588423312632" duration="5113000" />
-      <workItem from="1588451417162" duration="807000" />
-      <workItem from="1588519787758" duration="28000" />
-      <workItem from="1588686259734" duration="3174000" />
-      <workItem from="1588796431367" duration="1916000" />
-    </task>
-    <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="2865" y="574" key="FileChooserDialogImpl" timestamp="1588689466115">
-      <screen x="2560" y="0" width="1050" height="1640" />
-    </state>
-    <state x="2865" y="574" key="FileChooserDialogImpl/0.0.2560.1400/2560.0.1050.1640@2560.0.1050.1640" timestamp="1588689466115" />
-    <state width="1051" height="503" key="GridCell.Tab.0.bottom" timestamp="1588689468051">
-      <screen x="2560" y="0" width="1050" height="1640" />
-    </state>
-    <state width="1051" height="503" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.0.1050.1640@2560.0.1050.1640" timestamp="1588689468051" />
-    <state width="1051" height="503" key="GridCell.Tab.0.center" timestamp="1588689468051">
-      <screen x="2560" y="0" width="1050" height="1640" />
-    </state>
-    <state width="1051" height="503" key="GridCell.Tab.0.center/0.0.2560.1400/2560.0.1050.1640@2560.0.1050.1640" timestamp="1588689468051" />
-    <state width="1051" height="503" key="GridCell.Tab.0.left" timestamp="1588689468051">
-      <screen x="2560" y="0" width="1050" height="1640" />
-    </state>
-    <state width="1051" height="503" key="GridCell.Tab.0.left/0.0.2560.1400/2560.0.1050.1640@2560.0.1050.1640" timestamp="1588689468051" />
-    <state width="1051" height="503" key="GridCell.Tab.0.right" timestamp="1588689468051">
-      <screen x="2560" y="0" width="1050" height="1640" />
-    </state>
-    <state width="1051" height="503" key="GridCell.Tab.0.right/0.0.2560.1400/2560.0.1050.1640@2560.0.1050.1640" timestamp="1588689468051" />
-    <state x="2748" y="375" width="672" height="678" key="search.everywhere.popup" timestamp="1588427811540">
-      <screen x="2560" y="0" width="1050" height="1640" />
-    </state>
-    <state x="2748" y="375" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400/2560.0.1050.1640@2560.0.1050.1640" timestamp="1588427811540" />
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.2" />
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings custom_loader_path="$PROJECT_DIR$/vue-app/vendor/autoload.php" />
+    </phpunit_settings>
   </component>
 </project>
