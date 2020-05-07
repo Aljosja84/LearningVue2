@@ -2,15 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e44eaa36-089d-4696-822f-b51384fbbd0c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/learn-vue.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/learn-vue.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scopedSlots/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/scopedSlots/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/vue-app/composer.json</pharConfigPath>
     <execution>
       <executable />
@@ -136,7 +136,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/scopedSlots" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/vue-app" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -146,15 +146,15 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\learn-vue\componentExample1" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\learn-vue\flickTest" />
+      <recent name="C:\xampp\htdocs\learn-vue\flickity" />
       <recent name="C:\xampp\htdocs\learn-vue\scopedSlots" />
       <recent name="C:\xampp\htdocs\learn-vue\namedSlots" />
       <recent name="C:\xampp\htdocs\learn-vue\componentCommunication2" />
-      <recent name="C:\xampp\htdocs\learn-vue\componentCommunication1" />
-      <recent name="C:\xampp\htdocs\learn-vue\componentExample4" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\learn-vue\componentExample1" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -179,6 +179,7 @@
       <workItem from="1588519787758" duration="28000" />
       <workItem from="1588686259734" duration="3174000" />
       <workItem from="1588796431367" duration="1916000" />
+      <workItem from="1588849948458" duration="5020000" />
     </task>
     <servers />
   </component>
@@ -186,10 +187,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2865" y="574" key="FileChooserDialogImpl" timestamp="1588689466115">
+    <state x="2865" y="574" key="FileChooserDialogImpl" timestamp="1588855035595">
       <screen x="2560" y="0" width="1050" height="1640" />
     </state>
-    <state x="2865" y="574" key="FileChooserDialogImpl/0.0.2560.1400/2560.0.1050.1640@2560.0.1050.1640" timestamp="1588689466115" />
+    <state x="2865" y="574" key="FileChooserDialogImpl/0.0.2560.1400/2560.0.1050.1640@2560.0.1050.1640" timestamp="1588855035595" />
     <state width="1051" height="503" key="GridCell.Tab.0.bottom" timestamp="1588689468051">
       <screen x="2560" y="0" width="1050" height="1640" />
     </state>
